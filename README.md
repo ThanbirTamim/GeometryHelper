@@ -22,4 +22,4 @@ provide user's required grid cell size in Square-KM
    	GeometryHelper.CreateGrid(extent_feature.Extent, 1, @"C:\Grid.shp");
 
 ## Demo Output 
-![CHEESE!](test2.png)
+![CHEESE!](test3.png)
